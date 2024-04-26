@@ -19,7 +19,12 @@ sessment, offering robust capabilities for identifying potential
 work’s resilience against potential threats and ensuring that the
  deployed security mechanisms are robust and up-to-date. The
  research paper details the methodology behind each scanning
- module, highlighting the innovation and integration of cutting
+ module, highlighting the innovation and integration of cutting.
+ Index Terms—Network security, Network scanning tool, Cy
+bersecurity, Operating system detection, Vulnerability assess
+ment, Real-world scenarios.
+
+
 edge technologies. Additionally, practical use cases and real-world
  scenarios are presented to demonstrate the tool’s effectiveness in
  identifying and addressing security concerns in diverse network
