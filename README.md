@@ -26,5 +26,4 @@ work’s resilience against potential threats and ensuring that the
  environments.
 
  Index Terms—Network security, Network scanning tool, Cy
-bersecurity, Operating system detection, Vulnerability assess
-ment, Real-world scenarios.
+bersecurity, Operating system detection, Vulnerability Assessment, Real-world scenarios.
